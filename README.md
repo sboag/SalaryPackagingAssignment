@@ -1,0 +1,1 @@
+This is a small coding exercise. Design descisions were made due to time restraints and the exercise being a simple example. Solution would be better designed using dependency injection and other refactors like pulling the console logs into their own file/s.
